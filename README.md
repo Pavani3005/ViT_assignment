@@ -46,8 +46,7 @@ This pipeline allows for zero-shot segmentation of objects based on natural lang
 ## Example Output
 
 Here is an example demonstrating the pipeline's output for a laptop:
-<img width="952" height="790" alt="image" src="https://github.com/user-attachments/assets/5e6dfe65-b9ff-4997-9e43-b6fa38404bf5" />
-
+<img width="636" height="790" alt="image" src="https://github.com/user-attachments/assets/22694cfc-4c3d-4976-aeb6-e08b048b6ded" />
 
 ## Limitation
 
